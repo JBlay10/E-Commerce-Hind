@@ -21,7 +21,7 @@ npm i
 
 3. Create the database by running:
 ```
-mysql -u _<username>_ -p
+mysql -u <username> -p
 ```
 - After running mysql use:
 ```
