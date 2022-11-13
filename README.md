@@ -2,7 +2,7 @@
 
 This project is 100% back-end without the front-end it has to be ran/tested in Insomnia. It allows you to GET, PUT, POST, and DELETE the database from the api routes /products, /categories, and /tags. One can also search for specific data ex.: /products/:id.
 
-<!-- [Walkthrough Video]() -->
+[Walkthrough Video](https://watch.screencastify.com/v/MHWYdDeGluGZL5jAVw1Z)
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@ npm start
 
 ## Video Demo
 
-![gif example]()
+![gif example](./img/Ecommerce.gif)
 
 ## License
 
